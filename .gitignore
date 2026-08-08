@@ -1,0 +1,12 @@
+# Dependência do Node (NUNCA DEVEM IR PARA O GIT)
+
+node_modules/
+
+#Banco de dados local(SQLite)
+
+*.SQLite
+*.sqlite
+*.SQLite3
+*.sqlite3
+*.db
+

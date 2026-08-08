@@ -1,0 +1,36 @@
+{
+  "name": "job-finder",
+  "version": "1.0.0",
+  "description": "Portal de vagas de emprego para programadores",
+  "keywords": [
+    "dev",
+    "jobs",
+    "dev",
+    "oportunities"
+  ],
+  "homepage": "https://github.com/igorcosta110/Job-Finder#readme",
+  "bugs": {
+    "url": "https://github.com/igorcosta110/Job-Finder/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorcosta110/Job-Finder.git"
+  },
+  "license": "ISC",
+  "author": "Igor Costa",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "express": "^5.2.1",
+    "express-handlebars": "^9.0.1",
+    "sequelize": "^6.37.8",
+    "sqlite": "^5.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
