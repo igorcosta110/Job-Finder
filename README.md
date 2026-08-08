@@ -6,3 +6,8 @@ Tecnologias utilizadas:
 * CSS
 * JS
 * Node JS
+* Express
+* Express Handlebars
+* Sequelize
+* SQLite
+* Nodemon
