@@ -8,5 +8,5 @@ app.listen(PORT, function(){
 });
 
 app.get('/', (req, res) =>{
-    res.send("Está funcionando 3");
+    res.send("Está funcionando");
 });
