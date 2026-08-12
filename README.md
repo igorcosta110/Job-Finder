@@ -11,3 +11,4 @@ Tecnologias utilizadas:
 * Sequelize
 * SQLite
 * Nodemon
+* Body-Parser
