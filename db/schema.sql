@@ -1,13 +1,14 @@
 BEGIN TRANSACTION;
-CREATE TABLE IF NOT EXISTS "jobs" (
+CREATE TABLE "jobs" (
 	"id"	INTEGER,
 	"title"	TEXT,
 	"salary"	TEXT,
 	"company"	TEXT,
 	"email"	TEXT,
-	"new"	INTEGER,
+	"new_job"	INTEGER,
 	"createdAt"	TEXT,
 	"updatedAt"	TEXT,
+	"description"	TEXT,
 	PRIMARY KEY("id" AUTOINCREMENT)
-);
+)
 COMMIT;
