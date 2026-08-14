@@ -12,3 +12,4 @@ Tecnologias utilizadas:
 * SQLite
 * Nodemon
 * Body-Parser
+* Bootstrap (via CDN)
