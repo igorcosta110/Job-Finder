@@ -233,6 +233,11 @@
     color: #f03e3e;
 }
 
+#button-container{
+    display: flex;
+    margin: 0;
+}
+
 .back-link {
     border: 1px solid #f03e3e;
     padding: 5px 10px;
