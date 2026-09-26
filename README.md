@@ -5,6 +5,11 @@
 
 
 
+https://github.com/user-attachments/assets/12861757-664e-4c8f-b63b-dc0cbc448dbe
+
+
+
+
 ### ATENÇÃO: aplicação criada para objetivos acadêmicos. As vagas de emprego, nomes e contatos são fictícios.
 
 ---
