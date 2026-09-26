@@ -50,9 +50,9 @@ Antes de começar, você precisará ter instalado em sua máquina:
 2. **Acesse a pasta do projeto:**
 
     ```
-        npm install
+        cd Job-Finder
     ```
-2. **Acesse a pasta do projeto:**
+2. **Instale as dependências necessárias:**
 
     ```
         npm install
